@@ -1,0 +1,6 @@
+# Optional: tests and code-style checks (python -m pytest, ruff check, ruff format)
+-r requirements.txt
+pytest>=8.0
+httpx>=0.27   # HTTP client for FastAPI's TestClient (older Starlette versions)
+httpx2>=2.0   # HTTP client for FastAPI's TestClient (newer Starlette versions)
+ruff>=0.6

@@ -1,0 +1,146 @@
+{
+ "generated_at": "2026-10-10T15:40:09Z",
+ "sentiment_finance_tweets": [
+  {
+   "model": "Majority class (always neutral)",
+   "accuracy": 0.6557788944723618,
+   "macro_f1": 0.26403641881638845,
+   "docs_per_second": null
+  },
+  {
+   "model": "Naive baseline: generic VADER lexicon",
+   "accuracy": 0.49413735343383586,
+   "macro_f1": 0.4469922156431448,
+   "docs_per_second": 26532.7
+  },
+  {
+   "model": "Fallback: VADER + finance lexicon",
+   "accuracy": 0.5431323283082077,
+   "macro_f1": 0.5220576202338657,
+   "docs_per_second": 22461.3
+  },
+  {
+   "model": "Engine: distilroberta-financial",
+   "accuracy": 0.7558626465661642,
+   "macro_f1": 0.7117848903904195,
+   "docs_per_second": 67.0
+  },
+  {
+   "model": "Comparison: ProsusAI/finbert",
+   "accuracy": 0.716499162479062,
+   "macro_f1": 0.6597561134479091,
+   "docs_per_second": 36.0
+  }
+ ],
+ "sentiment_vs_stocktwits_user_tags": [
+  {
+   "model": "Naive baseline: generic VADER lexicon",
+   "n": 117,
+   "bullish_share": 0.795,
+   "accuracy": 0.47863247863247865,
+   "balanced_accuracy": 0.44018817204301075
+  },
+  {
+   "model": "Fallback: VADER + finance lexicon",
+   "n": 117,
+   "bullish_share": 0.795,
+   "accuracy": 0.5299145299145299,
+   "balanced_accuracy": 0.5033602150537634
+  },
+  {
+   "model": "Engine: distilroberta-financial",
+   "n": 117,
+   "bullish_share": 0.795,
+   "accuracy": 0.6153846153846154,
+   "balanced_accuracy": 0.6653225806451613
+  },
+  {
+   "model": "Comparison: ProsusAI/finbert",
+   "n": 117,
+   "bullish_share": 0.795,
+   "accuracy": 0.6581196581196581,
+   "balanced_accuracy": 0.5994623655913979
+  }
+ ],
+ "event_classification": {
+  "split": "test",
+  "n": 60,
+  "accuracy": 0.7666666666666667,
+  "macro_f1": 0.29218798630563336,
+  "baseline": "always 'General'",
+  "baseline_accuracy": 0.6666666666666666,
+  "baseline_macro_f1": 0.08888888888888889,
+  "errors": [
+   {
+    "headline": "New Phase 3b data on Lilly's Taltz (ixekizumab) and Zepbound (tirzepatide) advance understanding of the interconnected immune and metabolic biology in adults with psoriasis and obesity",
+    "label": "Product Launch",
+    "predicted": "General"
+   },
+   {
+    "headline": "Forget Chasing the Biggest Yield. These 5 Dividend Stocks Have Something Better",
+    "label": "General",
+    "predicted": "Earnings"
+   },
+   {
+    "headline": "3 Top Oil Stocks With At Least 2% Dividend Yield",
+    "label": "General",
+    "predicted": "Earnings"
+   },
+   {
+    "headline": "If voters arent better off by the next election, were screwed: Labour insiders voice fears over budget",
+    "label": "Macroeconomic",
+    "predicted": "Geopolitical"
+   },
+   {
+    "headline": "Hoosiers brace for more gas price changes after a 15-cent jump in a day",
+    "label": "Macroeconomic",
+    "predicted": "General"
+   },
+   {
+    "headline": "Meta\u2019s Second New Mexico Loss This Year: What It Means for Meta Stock",
+    "label": "Legal/Regulatory",
+    "predicted": "General"
+   },
+   {
+    "headline": "Boeing (BA) Faces A Debt Wall As Big Repayments Draw Closer",
+    "label": "Credit Event",
+    "predicted": "General"
+   },
+   {
+    "headline": "Here's What $1,000 in These 6 Energy Dividend Stocks Could Pay You in a Year",
+    "label": "General",
+    "predicted": "Earnings"
+   },
+   {
+    "headline": "Is Adobe Stock Ready For Slower Subscription Growth?",
+    "label": "Earnings",
+    "predicted": "General"
+   },
+   {
+    "headline": "UK data centre giant removed evidence of China deal ahead of $35bn listing",
+    "label": "Merger/Acquisition",
+    "predicted": "Geopolitical"
+   },
+   {
+    "headline": "Politically motivated decisions will deeply harm US: Indian - American Congressman Thanedar on Trump H-1B, Green Card move",
+    "label": "Geopolitical",
+    "predicted": "General"
+   },
+   {
+    "headline": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season \u2014 MSFT, NFLX, SPCX, ASTS In Focus",
+    "label": "General",
+    "predicted": "Earnings"
+   },
+   {
+    "headline": "Money Market Funds Just Drew $166 Billion: What Spooked Investors?",
+    "label": "Macroeconomic",
+    "predicted": "General"
+   },
+   {
+    "headline": "Jim Cramer Said NVIDIA\u2019s Shares Were Due For A Gut Check Following Morgan Stanley\u2019s Coverage",
+    "label": "Analyst Rating",
+    "predicted": "General"
+   }
+  ]
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "finished_at": "2026-10-10T15:39:03Z",
+ "sources": {
+  "yahoo_finance": {
+   "mode": "live",
+   "documents": 214,
+   "error": null,
+   "seconds": 2.2
+  },
+  "gdelt": {
+   "mode": "snapshot fallback",
+   "documents": 83,
+   "error": "companies: 429 Client Error: Too Many Requests"
+  },
+  "stocktwits": {
+   "mode": "live",
+   "documents": 337,
+   "error": null,
+   "seconds": 2.7
+  }
+ },
+ "documents_fetched": 634,
+ "new_documents": 6,
+ "new_signals": 6,
+ "model": "distilroberta-financial",
+ "nlp_seconds": 0.2,
+ "total_seconds": 25.0
+}

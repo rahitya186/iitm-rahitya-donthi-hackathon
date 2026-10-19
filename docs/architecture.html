@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>RiskPulse architecture</title>
+<!-- Source of docs/architecture.png (rendered at 1920x1080, 2x). -->
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { width: 1920px; height: 1080px; background: #fcfcfb; color: #0b0b0b;
+         font-family: Inter, "Segoe UI", system-ui, sans-serif; }
+  .wrap { height: 100%; padding: 44px 64px 40px; display: flex; flex-direction: column; gap: 28px; }
+  header { display: flex; justify-content: space-between; align-items: flex-end; }
+  h1 { font-size: 42px; font-weight: 700; letter-spacing: -0.5px; }
+  header p { font-size: 22px; color: #52514e; margin-top: 6px; }
+  .legend { display: flex; gap: 22px; font-size: 18px; color: #52514e; }
+  .legend span { display: inline-flex; align-items: center; gap: 8px; }
+  .legend i { width: 14px; height: 14px; border-radius: 4px; display: inline-block; }
+  .grid { flex: 1; display: grid; grid-template-columns: 480px 52px 660px 52px 1fr; min-height: 0; align-items: center; }
+  .col { display: flex; flex-direction: column; gap: 12px; min-height: 0; }
+  .label { font-size: 16px; font-weight: 600; letter-spacing: 1.6px; text-transform: uppercase; color: #898781;
+           margin-bottom: 2px; }
+  .label .mono { text-transform: none; letter-spacing: 0; font-weight: 400; }
+  .card { background: #ffffff; border: 1px solid #e1e0d9; border-radius: 14px; padding: 16px 20px; }
+  .card h3 { font-size: 25px; font-weight: 600; display: flex; align-items: center; gap: 10px; }
+  .card p, .card li { font-size: 21px; color: #52514e; line-height: 1.38; }
+  .card p { margin-top: 4px; }
+  .card ul { margin-top: 6px; padding-left: 20px; }
+  .tag { font-size: 13px; font-weight: 600; letter-spacing: 0.6px; padding: 3px 8px; border-radius: 6px;
+         background: #f0efec; color: #52514e; text-transform: uppercase; }
+  .engine { border: 2px solid #2a78d6; background: #f4f8fd; padding: 20px 20px; display: flex;
+            flex-direction: column; gap: 14px; }
+  .engine > h3 { color: #184f95; }
+  .step { display: flex; gap: 14px; align-items: flex-start; background: #ffffff; border: 1px solid #d5e4f7;
+          border-radius: 12px; padding: 12px 16px; }
+  .num { width: 30px; height: 30px; border-radius: 15px; background: #2a78d6; color: #ffffff; font-weight: 700;
+         font-size: 16px; display: flex; align-items: center; justify-content: center; flex: none; margin-top: 1px; }
+  .step b { font-size: 23px; font-weight: 600; color: #0b0b0b; display: block; }
+  .step span { font-size: 20px; color: #52514e; line-height: 1.36; display: block; margin-top: 3px; }
+  .moda { border: 2px solid #1baf7a; background: #f2faf6; }
+  .moda h3 { color: #0f6e4c; }
+  .out { border: 2px solid #898781; }
+  .mono { font-family: "DejaVu Sans Mono", Consolas, monospace; font-size: 17px; color: #0b0b0b; }
+  .h-arrow { display: flex; align-items: center; justify-content: center; }
+  .v-arrow { display: flex; justify-content: center; height: 22px; flex: none; }
+  .note { font-size: 15px; color: #898781; }
+  .src-icon { width: 12px; height: 12px; border-radius: 3px; background: #eb6834; flex: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>RiskPulse &mdash; architecture &amp; data flow</h1>
+      <p>Unstructured text from 3 free sources &rarr; structured risk signals &rarr; a sentiment-tilted mock index</p>
+    </div>
+    <div class="legend">
+      <span><i style="background:#eb6834"></i>data source</span>
+      <span><i style="background:#2a78d6"></i>AI/NLP Risk Engine</span>
+      <span><i style="background:#898781"></i>published signals</span>
+      <span><i style="background:#1baf7a"></i>Module A</span>
+    </div>
+  </header>
+
+  <div class="grid">
+    <!-- column 1: sources + ingestion -->
+    <div class="col">
+      <div class="label">1 &middot; Data sources (live, free, no API key)</div>
+      <div class="card"><h3><span class="src-icon"></span>Yahoo Finance RSS <span class="tag">news</span></h3>
+        <p>Company headlines, one feed per stock</p></div>
+      <div class="card"><h3><span class="src-icon"></span>GDELT DOC 2.0 API <span class="tag">global</span></h3>
+        <p>World news: companies, macro, geopolitics</p></div>
+      <div class="card"><h3><span class="src-icon"></span>StockTwits API <span class="tag">social</span></h3>
+        <p>Investor posts tagged with $cashtags</p></div>
+      <div class="v-arrow"><svg width="20" height="22"><line x1="10" y1="0" x2="10" y2="13" stroke="#898781" stroke-width="2"/><path d="M4 12 L10 22 L16 12 Z" fill="#898781"/></svg></div>
+      <div class="label">2 &middot; Ingestion <span class="mono" style="color:#898781">ingestion.py</span></div>
+      <div class="card">
+        <ul>
+          <li>Parallel fetch, one document schema</li>
+          <li>Dedupe; collapse syndicated wire copies</li>
+          <li>Spam &amp; copy-paste promo filter</li>
+          <li>7-day snapshot in <span class="mono">data/raw</span> = fallback when an API is down</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="h-arrow"><svg width="54" height="20"><line x1="2" y1="10" x2="42" y2="10" stroke="#898781" stroke-width="2"/><path d="M41 3 L54 10 L41 17 Z" fill="#898781"/></svg></div>
+
+    <!-- column 2: NLP engine -->
+    <div class="col">
+      <div class="label">3 &middot; AI/NLP Risk Engine <span class="mono" style="color:#898781">nlp.py &middot; engine.py</span></div>
+      <div class="card engine">
+        <h3>Per document &rarr; one signal per company</h3>
+        <div class="step"><div class="num">1</div><div><b>Entity linking</b>
+          <span>Names, $cashtags, &ldquo;(KO)&rdquo;, &ldquo;NYSE:KO&rdquo; &rarr; one of 15 S&amp;P 100 stocks, or MARKET for macro / geopolitical news</span></div></div>
+        <div class="step"><div class="num">2</div><div><b>Sentiment score &nbsp;&minus;1 &hellip; +1</b>
+          <span>DistilRoBERTa fine-tuned on financial news: P(pos) &minus; P(neg). Beat FinBERT in our benchmark; VADER fallback runs anywhere</span></div></div>
+        <div class="step"><div class="num">3</div><div><b>Event classification</b>
+          <span>Geopolitical &middot; Macroeconomic &middot; Credit Event &middot; M&amp;A &middot; Product Launch &middot; Earnings &middot; Legal/Regulatory &middot; Analyst Rating &middot; General; returns the matched keywords</span></div></div>
+        <div class="step"><div class="num">4</div><div><b>Impact score &nbsp;1 &hellip; 10</b>
+          <span>Event base + tone strength + intensity words + reach (wire coverage, viral posts) + market-wide; one social post &le; 7</span></div></div>
+      </div>
+    </div>
+
+    <div class="h-arrow"><svg width="54" height="20"><line x1="2" y1="10" x2="42" y2="10" stroke="#898781" stroke-width="2"/><path d="M41 3 L54 10 L41 17 Z" fill="#898781"/></svg></div>
+
+    <!-- column 3: outputs + Module A + dashboard -->
+    <div class="col">
+      <div class="label">4 &middot; Published signals (the interface)</div>
+      <div class="card out">
+        <p style="margin-top:0"><span class="mono">signals.jsonl</span> stream &middot; <span class="mono">signals.csv</span></p>
+        <p><b style="color:#0b0b0b;font-weight:600">REST API</b> (FastAPI)<br><span class="mono">/signals /companies /events /analyze</span></p>
+        <p class="note" style="margin-top:6px;font-size:18px">ticker &middot; time &middot; sentiment_score &middot; event_type &middot; impact_score</p>
+      </div>
+      <div class="v-arrow"><svg width="20" height="22"><line x1="10" y1="0" x2="10" y2="13" stroke="#1baf7a" stroke-width="2"/><path d="M4 12 L10 22 L16 12 Z" fill="#1baf7a"/></svg></div>
+      <div class="label">5 &middot; Module A &mdash; index rebalancer <span class="mono" style="color:#898781">rebalancer.py</span></div>
+      <div class="card moda">
+        <ul>
+          <li>Subscribes to <b style="color:#0b0b0b;font-weight:600">sentiment_score</b></li>
+          <li>Weight = recency &times; impact &times; source</li>
+          <li>w = 1/15 &times; (1 + tilt &times; conf. &times; sentiment), 2&ndash;12 %, half-way moves</li>
+          <li>Hourly rebalances + reason log</li>
+        </ul>
+      </div>
+      <div class="v-arrow"><svg width="20" height="22"><line x1="10" y1="0" x2="10" y2="13" stroke="#1baf7a" stroke-width="2"/><path d="M4 12 L10 22 L16 12 Z" fill="#1baf7a"/></svg></div>
+      <div class="label">6 &middot; Streamlit dashboard <span class="mono" style="color:#898781">dashboard.py</span></div>
+      <div class="card">
+        <ul>
+          <li>Weights over time, current tilts</li>
+          <li>Signals, alerts, live text analyzer</li>
+          <li>One-click / 15-min auto refresh</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

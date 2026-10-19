@@ -1,0 +1,109 @@
+timestamp,ticker,old_weight,new_weight,change_pp,sentiment,n_signals,driver
+2026-10-07T16:00:00Z,LLY,0.0667,0.0736,0.69,0.565,2,$SLS $JNJ $MRK $ABBV It's worth noting today $ABBV reached an all-time high on news of breakthrough therapy designations for its ADC drug ca
+2026-10-07T16:00:00Z,KO,0.0667,0.0714,0.47,0.281,8,$SPCX this IPO’d at 150. It’s 170. Boomer stocks have moved higher than that. Trust me. $KO IS UP MORE HAHAHAHAHAHAH mayb u should be a boom
+2026-10-07T17:00:00Z,LLY,0.0736,0.0769,0.33,0.565,2,$SLS $JNJ $MRK $ABBV It's worth noting today $ABBV reached an all-time high on news of breakthrough therapy designations for its ADC drug ca
+2026-10-08T05:00:00Z,JPM,0.0649,0.0584,-0.65,-0.357,3,Banks Under Pressure From Spiking Yields Ahead Of Q3 Results $JPM $WFC $C
+2026-10-08T05:00:00Z,JNJ,0.068,0.0716,0.37,0.191,13,$SLS $JNJ $MRK $ABBV It's worth noting today $ABBV reached an all-time high on news of breakthrough therapy designations for its ADC drug ca
+2026-10-08T06:00:00Z,JPM,0.0584,0.0552,-0.32,-0.357,3,Banks Under Pressure From Spiking Yields Ahead Of Q3 Results $JPM $WFC $C
+2026-10-08T12:00:00Z,LLY,0.0771,0.0628,-1.43,-0.588,3,LLY Stock Down 2% in 3 Months: Is the Dip a Buying Opportunity?
+2026-10-08T13:00:00Z,JPM,0.0538,0.0512,-0.26,-0.476,4,Banks Under Pressure From Spiking Yields Ahead Of Q3 Results $JPM $WFC $C
+2026-10-08T13:00:00Z,BAC,0.0665,0.0562,-1.03,-0.998,1,$BAC $JPM Bac Down 15% in a Month and no stopping yet Banks bubble busted badly
+2026-10-08T14:00:00Z,BAC,0.0562,0.0503,-0.59,-0.998,1,$BAC $JPM Bac Down 15% in a Month and no stopping yet Banks bubble busted badly
+2026-10-08T14:00:00Z,XOM,0.0676,0.0765,0.89,0.893,1,How XOM's Strong Balance Sheet Helps Weather Oil Price Volatility
+2026-10-08T14:00:00Z,LLY,0.0639,0.0731,0.93,0.357,6,Eli Lilly (LLY) Has a Powerful Growth Flywheel Beyond Its GLP-1 Success
+2026-10-08T15:00:00Z,BAC,0.0503,0.0474,-0.29,-0.998,1,$BAC $JPM Bac Down 15% in a Month and no stopping yet Banks bubble busted badly
+2026-10-08T15:00:00Z,XOM,0.0765,0.0804,0.4,0.893,1,How XOM's Strong Balance Sheet Helps Weather Oil Price Volatility
+2026-10-08T15:00:00Z,LLY,0.0731,0.0808,0.77,0.421,12,Eli Lilly (LLY) Has a Powerful Growth Flywheel Beyond Its GLP-1 Success
+2026-10-08T16:00:00Z,JPM,0.0479,0.0445,-0.34,-0.55,5,Banks Under Pressure From Spiking Yields Ahead Of Q3 Results $JPM $WFC $C
+2026-10-08T16:00:00Z,BAC,0.0474,0.05,0.25,-0.315,3,older signals fading (decay)
+2026-10-08T16:00:00Z,LLY,0.0808,0.0872,0.63,0.518,15,Eli Lilly (LLY) Has a Powerful Growth Flywheel Beyond Its GLP-1 Success
+2026-10-08T17:00:00Z,LLY,0.0872,0.0913,0.41,0.545,18,Eli Lilly (LLY) Has a Powerful Growth Flywheel Beyond Its GLP-1 Success
+2026-10-08T19:00:00Z,BAC,0.052,0.0422,-0.98,-0.689,6,DraftKings Is Down 19% in a Month: Did Bank of America Just Call the Bottom?
+2026-10-08T20:00:00Z,BAC,0.0422,0.0371,-0.51,-0.689,6,DraftKings Is Down 19% in a Month: Did Bank of America Just Call the Bottom?
+2026-10-08T20:00:00Z,KO,0.0707,0.0787,0.8,0.404,19,Coca Cola (KO) Stock Trades Near Fair Value On Cash Flow
+2026-10-08T21:00:00Z,BAC,0.0371,0.0414,0.43,-0.379,8,"$BAC options flow leaning a bit bearish pre-earnings with some notable moves today Spotted a cluster of three sweeps buying about 5,952 Nov "
+2026-10-08T21:00:00Z,KO,0.0787,0.0716,-0.71,-0.008,21,Coca-Cola (KO) Advances While Market Declines: Some Information for Investors
+2026-10-08T22:00:00Z,AAPL,0.0651,0.0535,-1.16,-0.957,2,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-08T22:00:00Z,MSFT,0.065,0.0555,-0.94,-0.995,1,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-08T22:00:00Z,NVDA,0.065,0.0516,-1.33,-0.914,2,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-08T22:00:00Z,BAC,0.0414,0.0512,0.98,-0.144,9,Bank of America tweaks Marvell stock target after key Analyst Day
+2026-10-08T22:00:00Z,XOM,0.0849,0.0912,0.62,0.485,13,How XOM's Strong Balance Sheet Helps Weather Oil Price Volatility
+2026-10-08T22:00:00Z,LLY,0.0953,0.098,0.27,0.516,21,Eli Lilly (LLY) Has a Powerful Growth Flywheel Beyond Its GLP-1 Success
+2026-10-08T22:00:00Z,KO,0.0716,0.0752,0.36,0.161,23,PepsiCo vs. Coca-Cola: Can PEP Stock Catch Up to KO After Its Q3 Earnings Beat?
+2026-10-08T23:00:00Z,AAPL,0.0535,0.0479,-0.56,-0.957,2,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-08T23:00:00Z,MSFT,0.0555,0.051,-0.45,-0.995,1,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-08T23:00:00Z,NVDA,0.0516,0.0452,-0.65,-0.914,2,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-08T23:00:00Z,BAC,0.0512,0.0561,0.49,-0.14,10,Bank of America tweaks Marvell stock target after key Analyst Day
+2026-10-08T23:00:00Z,XOM,0.0912,0.0941,0.3,0.485,13,How XOM's Strong Balance Sheet Helps Weather Oil Price Volatility
+2026-10-09T00:00:00Z,AAPL,0.0479,0.0453,-0.26,-0.957,2,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-09T00:00:00Z,NVDA,0.0452,0.0422,-0.3,-0.914,2,"Nvidia, Apple, and Microsoft Spell Trouble for Index Investors"
+2026-10-09T01:00:00Z,JPM,0.0464,0.0552,0.89,-0.067,9,$NKE beautiful technical bounce $35-36 eow though could see $37+ range if markets pump tomorrow Locked in today and riding some profit into 
+2026-10-09T02:00:00Z,JPM,0.0552,0.0597,0.44,-0.067,9,$NKE beautiful technical bounce $35-36 eow though could see $37+ range if markets pump tomorrow Locked in today and riding some profit into 
+2026-10-09T05:00:00Z,WMT,0.0679,0.0779,1.0,0.438,7,"$WMT's latest quarter had revenue of $187.9B, up 5.9%, and operating income up 28.8%. Net income still fell 9.4% after a $1.2B charge from o"
+2026-10-09T06:00:00Z,XOM,0.0923,0.0897,-0.25,0.358,19,"$XOM Exxon is integrated: it pumps crude and it refines it. When crude falls and diesel spikes, those two halves can move in opposite direct"
+2026-10-09T06:00:00Z,WMT,0.0779,0.0827,0.48,0.406,8,"$WMT's latest quarter had revenue of $187.9B, up 5.9%, and operating income up 28.8%. Net income still fell 9.4% after a $1.2B charge from o"
+2026-10-09T07:00:00Z,XOM,0.0897,0.0872,-0.25,0.305,20,"$XOM Exxon is integrated: it pumps crude and it refines it. When crude falls and diesel spikes, those two halves can move in opposite direct"
+2026-10-09T08:00:00Z,KO,0.0799,0.0837,0.38,0.369,23,Prediction: Earnings Growth Will Push Coca-Cola Stock to $100 Before 2028
+2026-10-09T09:00:00Z,BA,0.0664,0.076,0.96,0.999,1,Boeing (BA) Stock Trades Near Fair Value As Navy Fighter Win Lands
+2026-10-09T10:00:00Z,BAC,0.055,0.0594,0.44,0.001,17,Soitec climbs 7% as BofA turns bullish on silicon photonics demand
+2026-10-09T10:00:00Z,BA,0.076,0.0802,0.42,0.999,1,Boeing (BA) Stock Trades Near Fair Value As Navy Fighter Win Lands
+2026-10-09T11:00:00Z,JNJ,0.0702,0.0766,0.65,0.355,20,New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis
+2026-10-09T11:00:00Z,BA,0.0802,0.0721,-0.81,-0.019,3,Boeing (BA) Faces A Debt Wall As Big Repayments Draw Closer
+2026-10-09T12:00:00Z,JNJ,0.0766,0.0831,0.65,0.49,22,New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis
+2026-10-09T13:00:00Z,XOM,0.0813,0.0765,-0.48,0.131,21,ExxonMobil blocked $5B Kashagan environmental fine settlement
+2026-10-09T13:00:00Z,JNJ,0.0831,0.0867,0.36,0.49,22,New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis
+2026-10-09T14:00:00Z,KO,0.0856,0.0807,-0.49,0.172,26,Coca-Cola Seeks to Unwind $5 Billion Costa Coffee Acquisition
+2026-10-09T15:00:00Z,JNJ,0.0878,0.0846,-0.32,0.273,22,Boston sues J&J subsidiary over alleged patent infringement for cardiology device
+2026-10-09T16:00:00Z,JNJ,0.0846,0.0815,-0.31,0.214,23,Boston sues J&J subsidiary over alleged patent infringement for cardiology device
+2026-10-09T16:00:00Z,BA,0.0744,0.0787,0.42,0.345,6,Boeing’s (BA) Strategic Push to Balance Rising Demand with Operational Bottlenecks
+2026-10-09T17:00:00Z,TSLA,0.0659,0.0769,1.09,0.714,2,Tesla’s China-Made EV Sales Hit 2026 High In September – Yorkville Says TSLA Is One Of The Clearest Ways To Own ‘Physical AI’ In Public Markets
+2026-10-09T17:00:00Z,LLY,0.0922,0.087,-0.52,0.29,30,$LLY $TRXB what a weak ipo
+2026-10-09T17:00:00Z,BA,0.0787,0.0832,0.45,0.397,16,Boeing’s (BA) Strategic Push to Balance Rising Demand with Operational Bottlenecks
+2026-10-09T18:00:00Z,NVDA,0.0439,0.0486,0.47,-0.286,4,"Elon Musk, Michael Dell, Jensen Huang, and other tech leaders receive White House National Medals"
+2026-10-09T18:00:00Z,TSLA,0.0769,0.0811,0.42,0.549,3,Tesla’s China-Made EV Sales Hit 2026 High In September – Yorkville Says TSLA Is One Of The Clearest Ways To Own ‘Physical AI’ In Public Markets
+2026-10-09T18:00:00Z,LLY,0.087,0.0841,-0.29,0.29,30,$LLY $TRXB what a weak ipo
+2026-10-09T18:00:00Z,BA,0.0832,0.0805,-0.26,0.229,23,"TD Cowen Says De-Rating In Aerospace Stocks Has Been ‘Disorderly,’ Cuts Targets On Boeing, Lockheed Martin Among Others"
+2026-10-09T19:00:00Z,NVDA,0.0486,0.0448,-0.39,-0.553,5,Nvidia Stock Recovers but IPO Fears Feed AI Concerns
+2026-10-09T19:00:00Z,META,0.0649,0.0716,0.67,0.424,2,"Planet Fitness Can Manage Potential Risks to Churn, Membership Growth From Meta AI Agent, UBS Says"
+2026-10-09T19:00:00Z,TSLA,0.0811,0.0775,-0.36,0.205,5,Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%
+2026-10-09T19:00:00Z,LLY,0.0841,0.0814,-0.26,0.242,33,$LLY $TRXB what a weak ipo
+2026-10-09T20:00:00Z,GOOGL,0.065,0.0692,0.41,0.194,7,$GOOGL Stock up 1%. My Dec calls barely moving. 😤
+2026-10-09T20:00:00Z,META,0.0716,0.0744,0.28,0.424,2,"Planet Fitness Can Manage Potential Risks to Churn, Membership Growth From Meta AI Agent, UBS Says"
+2026-10-09T20:00:00Z,TSLA,0.0775,0.0748,-0.27,0.174,6,Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%
+2026-10-09T21:00:00Z,AAPL,0.0438,0.0587,1.5,0.206,11,"Dow Jones Futures: AI Stocks Rebound From OpenAI Slide; SpaceX, Verizon, Delta, Apple Early Movers"
+2026-10-09T21:00:00Z,NVDA,0.0427,0.0483,0.56,-0.196,7,"Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings"
+2026-10-09T21:00:00Z,AMZN,0.0643,0.0594,-0.49,-0.192,5,Is the Market Underestimating Amazon’s (AMZN) Moat?
+2026-10-09T21:00:00Z,GOOGL,0.0692,0.0666,-0.25,0.019,12,$GOOGL community opinion seems mixed in release of their new models. eventually they'll put out something worthwhile because they have the m
+2026-10-09T21:00:00Z,META,0.0744,0.0689,-0.55,0.007,4,Hunterbrook discloses Meta short position as alternative data signals Muse cooling
+2026-10-09T21:00:00Z,WMT,0.0812,0.0837,0.25,0.409,23,Jim Cramer Said It Was “Suddenly” A Market For Walmart (WMT) But Made A Big Prediction For Target (TGT)
+2026-10-09T22:00:00Z,AAPL,0.0587,0.0647,0.59,0.152,16,Apple’s App Store Growth Improved in September. What UBS Sees Coming in October Is Harder
+2026-10-09T22:00:00Z,MSFT,0.05,0.0557,0.58,-0.016,13,Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?
+2026-10-09T22:00:00Z,NVDA,0.0483,0.0509,0.25,-0.196,7,"Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings"
+2026-10-09T22:00:00Z,AMZN,0.0594,0.056,-0.34,-0.193,9,"$SPY So here we go, next week we go into bank Earnings & I think we're going to see a shift as more folks start to see Dem's winning & I exp"
+2026-10-09T22:00:00Z,GOOGL,0.0666,0.0698,0.31,0.193,15,Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?
+2026-10-09T22:00:00Z,META,0.0689,0.0643,-0.46,-0.052,9,Hunterbrook discloses Meta short position as alternative data signals Muse cooling
+2026-10-09T22:00:00Z,XOM,0.072,0.0689,-0.31,0.061,28,ExxonMobil blocked $5B Kashagan environmental fine settlement
+2026-10-09T22:00:00Z,WMT,0.0837,0.0873,0.36,0.51,24,Walmart vs. Costco: Why the Cheaper Earnings Stock Costs More for Cash Flow
+2026-10-09T22:00:00Z,KO,0.0734,0.0688,-0.47,0.03,29,Should Coca-Cola’s Upgraded Outlook and Prebiotic Push Require Action From Coca-Cola (KO) Investors?
+2026-10-09T23:00:00Z,MSFT,0.0557,0.0646,0.89,0.205,15,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus"
+2026-10-09T23:00:00Z,AMZN,0.056,0.0585,0.25,-0.024,12,$AMZN That was a nice run. $255 coming Monday before take off
+2026-10-09T23:00:00Z,META,0.0643,0.055,-0.93,-0.307,14,Meta’s Second New Mexico Loss This Year: What It Means for Meta Stock
+2026-10-10T00:00:00Z,AAPL,0.0664,0.0626,-0.38,-0.082,22,Why Apple (AAPL) Stock Is Trading Lower Today
+2026-10-10T00:00:00Z,MSFT,0.0646,0.0687,0.41,0.164,18,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus"
+2026-10-10T00:00:00Z,META,0.055,0.0509,-0.41,-0.3,15,Meta’s Second New Mexico Loss This Year: What It Means for Meta Stock
+2026-10-10T01:00:00Z,MSFT,0.0687,0.0729,0.41,0.225,19,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus"
+2026-10-10T01:00:00Z,META,0.0509,0.0471,-0.39,-0.371,16,Meta’s Second New Mexico Loss This Year: What It Means for Meta Stock
+2026-10-10T03:00:00Z,NVDA,0.0532,0.0557,0.25,-0.059,13,"Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings"
+2026-10-10T03:00:00Z,META,0.0451,0.0476,0.26,-0.202,20,I’ve RARELY been as confident about as I am about $SOFI. I've heard every bear case 100 times at this point but except for Great Recession I
+2026-10-10T03:00:00Z,BA,0.0767,0.0793,0.26,0.362,35,"Stocktwits Defense Watch: U.S. Missile Spending Drives $21B In Boeing, RTX Deals, Ondas Adds $270M In Orders"
+2026-10-10T04:00:00Z,META,0.0476,0.0505,0.29,-0.132,24,I’ve RARELY been as confident about as I am about $SOFI. I've heard every bear case 100 times at this point but except for Great Recession I
+2026-10-10T06:00:00Z,AMZN,0.0656,0.0707,0.51,0.289,29,Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?
+2026-10-10T07:00:00Z,AMZN,0.0707,0.0737,0.3,0.289,29,Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?
+2026-10-10T07:00:00Z,GOOGL,0.0727,0.07,-0.27,0.12,32,"Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks — But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms"
+2026-10-10T07:00:00Z,TSLA,0.0659,0.062,-0.4,-0.051,14,"Tesla Drops “Full Self-Driving” in Europe, Where Its Revenue Fell 10% Last Year"
+2026-10-10T10:00:00Z,GOOGL,0.0693,0.0719,0.26,0.276,34,"Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% to $24.8 Billion Last Quarter, With the Gemini App Reaching 950 Million Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Sea"
+2026-10-10T11:00:00Z,AAPL,0.0557,0.0508,-0.49,-0.257,28,Apple’s iPhone 18 Pro Demand Is Likely Slipping — But Gene Munster Says That’s Not The Real Story
+2026-10-10T11:00:00Z,JPM,0.0652,0.069,0.37,0.251,27,"Jamie Dimon Revealed 1 of the Biggest Risks to JPMorgan Chase, and This Stock Could Benefit"
+2026-10-10T13:00:00Z,JPM,0.0706,0.0653,-0.53,0.013,29,Jamie Dimon warns the next credit crisis could be severe — take these steps to protect your wallet now
+2026-10-10T13:00:00Z,JNJ,0.0739,0.071,-0.28,0.177,27,$JNJ Club holding Johnson & Johnson also reports Tuesday. Cramer said the stock often sells off during its earnings call despite strong unde
+2026-10-10T14:00:00Z,JPM,0.0653,0.0625,-0.28,0.013,29,Jamie Dimon warns the next credit crisis could be severe — take these steps to protect your wallet now

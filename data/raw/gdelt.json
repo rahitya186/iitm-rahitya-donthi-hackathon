@@ -1,0 +1,1335 @@
+{
+ "source": "gdelt",
+ "description": "GDELT DOC 2.0 API (global news & events)",
+ "updated_at": "2026-10-10T15:32:58Z",
+ "documents": [
+  {
+   "doc_id": "gdelt:5b85337b642344f1",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "Nyoro suspended over claims NSSF, PSSF, Kenya Re were pressured to buy KPC shares",
+   "text": "Nyoro suspended over claims NSSF, PSSF, Kenya Re were pressured to buy KPC shares",
+   "url": "https://capitalfm.africa/nyoro-suspended-over-claims-nssf-pssf-kenya-re-were-pressured-to-buy-kpc-shares/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "capitalfm.africa",
+    "country": "",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:9893f7aedbb2b5ee",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "RBI increases repo rate to 5.50%: How does it impact a consumer?",
+   "text": "RBI increases repo rate to 5.50%: How does it impact a consumer?",
+   "url": "https://www.sentinelassam.com/topheadlines/rbi-increases-repo-rate-to-550-how-does-it-impact-a-consumer",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "sentinelassam.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:591b46c8fe7df5b1",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+   "text": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+   "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "theguardian.com",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:bd25ab9a6473d4af",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "US prepares military for possible new Iran strikes, Trump yet to decide",
+   "text": "US prepares military for possible new Iran strikes, Trump yet to decide",
+   "url": "https://www.business-standard.com/world-news/us-prepares-military-for-possible-new-iran-strikes-trump-yet-to-decide-126100800105_1.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "business-standard.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:59e3c37c2d25a755",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "Ireland risks losing its moral clarity over Aughinish debacle",
+   "text": "Ireland risks losing its moral clarity over Aughinish debacle",
+   "url": "https://www.irishexaminer.com/opinion/commentanalysis/arid-41920975.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "irishexaminer.com",
+    "country": "Ireland",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:72f93a60d1d2ef97",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "FxWirePro: EUR / NZD recovers from early dip, upside pressure builds",
+   "text": "FxWirePro: EUR / NZD recovers from early dip, upside pressure builds",
+   "url": "http://www.econotimes.com/FxWirePro-EUR-NZD-recovers-from-early-dip-upside-pressure-builds-1754289",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "econotimes.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:554417b35c7dc296",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "Biotech and Pharma Industry News",
+   "text": "Biotech and Pharma Industry News",
+   "url": "https://www.biopharmadive.com/?page=2&_sp=55904eff-66d1-43a8-bc97-7e7124b9a4fc",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "biopharmadive.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:cc4955c03b175c82",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "No more wet windscreen with £7 bags that make such a difference",
+   "text": "No more wet windscreen with £7 bags that make such a difference",
+   "url": "https://www.nottinghampost.com/whats-on/shopping/no-more-wet-windscreens-under-11187701",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "nottinghampost.com",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:694b78175761f7a2",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "Rencore Launches New Multi",
+   "text": "Rencore Launches New Multi",
+   "url": "https://bubblear.com/rencore-launches-new-multi-ai-governance-functionality/34210/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "bubblear.com",
+    "country": "Argentina",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:fd63a50327651706",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "UK motorists can now see live fuel prices on Google Maps",
+   "text": "UK motorists can now see live fuel prices on Google Maps",
+   "url": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "theguardian.com",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:ada94aed8dcfdfd7",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "66 Remarkable Woodworking Projects That Turn Basic Boards Into Something Truly Special",
+   "text": "66 Remarkable Woodworking Projects That Turn Basic Boards Into Something Truly Special",
+   "url": "https://2.boredpanda.com/cool-woodworking-designs-ideas/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "2.boredpanda.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:ff79e14481faea04",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "AI eats into entry - level tech jobs as India graduates seek work",
+   "text": "AI eats into entry - level tech jobs as India graduates seek work",
+   "url": "https://www.business-standard.com/industry/news/ai-eats-into-entry-level-tech-jobs-as-india-s-graduates-seek-work-126100800232_1.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "business-standard.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:06288dacc23905cd",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-08T05:30:00Z",
+   "title": "TikTok accused by New York AG of secretly testing safety features on teens",
+   "text": "TikTok accused by New York AG of secretly testing safety features on teens",
+   "url": "https://www.business-standard.com/world-news/tiktok-accused-by-new-york-ag-of-secretly-testing-safety-features-on-teens-126100800269_1.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "business-standard.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:65483293d5d742f0",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Being ashamed of family wealth as backup?: Why young Indians born around 2005 face a tougher future with AI, rising house prices and fewer good jobs",
+   "text": "Being ashamed of family wealth as backup?: Why young Indians born around 2005 face a tougher future with AI, rising house prices and fewer good jobs",
+   "url": "https://www.indiatimes.com/trending/being-ashamed-of-family-wealth-as-backup-why-young-indians-born-around-2005-face-a-tougher-future-with-ai-rising-house-prices-and-fewer-good-jobs/articleshow/134836708.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:c3f60f3be6ecef49",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
+   "text": "Brent commands a war premium as Middle East supply risks keep oil on edge",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:e4a22e8cb3961d64",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "RBI takes steps to choke speculative bets against the rupee in forex market",
+   "text": "RBI takes steps to choke speculative bets against the rupee in forex market",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-takes-steps-to-choke-speculative-bets-against-the-rupee-in-forex-market/articleshow/134848611.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "timesofindia.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:12984513685f7848",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "RBI rate hikes of 50 bps expected in next two policies, terminal repo rate to reach 6.0%: Kotak report",
+   "text": "RBI rate hikes of 50 bps expected in next two policies, terminal repo rate to reach 6.0%: Kotak report",
+   "url": "http://www.pakistantelegraph.com/news/279362992/rbi-rate-hikes-of-50-bps-expected-in-next-two-policies-terminal-repo-rate-to-reach-60-kotak-report",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "pakistantelegraph.com",
+    "country": "Pakistan",
+    "coverage": 2
+   }
+  },
+  {
+   "doc_id": "gdelt:72ac6a88f95b77c1",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "It Time to Confront America Insurance Monopolies",
+   "text": "It Time to Confront America Insurance Monopolies",
+   "url": "https://townhall.com/columnists/joelwhite/2026/10/10/its-time-to-confront-americas-insurance-monopolies-n2684235",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "townhall.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:c5a74f35f4dec908",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Trump faces hypocrisy charge over Russian diesel deal after targeting India",
+   "text": "Trump faces hypocrisy charge over Russian diesel deal after targeting India",
+   "url": "https://www.orissapost.com/trump-faces-hypocrisy-charge-over-russian-diesel-deal-after-targeting-india/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "orissapost.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:eb9113fbbdbeba85",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Trump says ICC sanctions aimed at defending Netanyahu and others",
+   "text": "Trump says ICC sanctions aimed at defending Netanyahu and others",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-icc-sanctions-aimed-defending-netanyahu-and-others",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "middleeasteye.net",
+    "country": "Israel",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:a71d0ec30d6d50aa",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "If voters arent better off by the next election, were screwed: Labour insiders voice fears over budget",
+   "text": "If voters arent better off by the next election, were screwed: Labour insiders voice fears over budget",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "theguardian.com",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:65e3458fffc64d82",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Samin Nosrat celebrity chef who signed BDS pledge shares stage with Israelis",
+   "text": "Samin Nosrat celebrity chef who signed BDS pledge shares stage with Israelis",
+   "url": "http://www.jpost.com/diaspora/article-911204",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "jpost.com",
+    "country": "Israel",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:3caac8617c07a3a0",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Voices from the Arab Press: US-Iran tensions, AI dangers, and Israel vote",
+   "text": "Voices from the Arab Press: US-Iran tensions, AI dangers, and Israel vote",
+   "url": "http://www.jpost.com/middle-east/article-911021",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "jpost.com",
+    "country": "Israel",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:d7cf4fc5d6a120d2",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Trump says Russia to supply diesel to global markets",
+   "text": "Trump says Russia to supply diesel to global markets",
+   "url": "https://www.canberratimes.com.au/story/9365952/trump-says-russia-to-supply-diesel-to-global-markets/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "canberratimes.com.au",
+    "country": "Australia",
+    "coverage": 2
+   }
+  },
+  {
+   "doc_id": "gdelt:feed6c4d2527543a",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Putin says Russian oil supplies to US will",
+   "text": "Putin says Russian oil supplies to US will",
+   "url": "https://timesofoman.com/article/177842-putin-says-russian-oil-supplies-to-us-will-positively-impact-global-economy-after-trump-call",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "timesofoman.com",
+    "country": "Oman",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:e2bb65e2c8aeef48",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "BP Plans Bid Under Investment - friendly India Oil & Gas Policy: Meg ONeill",
+   "text": "BP Plans Bid Under Investment - friendly India Oil & Gas Policy: Meg ONeill",
+   "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/bp-plans-bid-under-investment-friendly-india-oil-gas-policy/articleshow/134842812.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:51a47bfb9072a727",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Heat pumps branded dud by MPs as boffins find highly dangerou chemical inside",
+   "text": "Heat pumps branded dud by MPs as boffins find highly dangerou chemical inside",
+   "url": "https://www.dailystar.co.uk/news/latest-news/heat-pumps-branded-duds-mps-37754115",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "dailystar.co.uk",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:4189c10b3584aac6",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "South African - born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice",
+   "text": "South African - born jurist Navi Pillay wins Nobel Peace Prize for her work in international justice",
+   "url": "https://isp.netscape.com:443/news/world/story/0001/20261010/f60744c07df969e50e9e69786fdb7de1",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "isp.netscape.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:a6a6d90af775d3be",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Donald Trump Makes BIG Announcement, Strikes Diesel Deal With Putin, Says Prices Will Come Down Fast",
+   "text": "Donald Trump Makes BIG Announcement, Strikes Diesel Deal With Putin, Says Prices Will Come Down Fast",
+   "url": "https://www.oneindia.com/international/donald-trump-makes-big-announcement-strikes-diesel-deal-with-putin-says-prices-will-come-down-fas-8230651.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "oneindia.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:029150ef64c95f1b",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+   "text": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+   "url": "https://www.the-star.co.ke/news/world/2026-10-10-trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "the-star.co.ke",
+    "country": "Kenya",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:8ad5963f2988cef6",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Hoosiers brace for more gas price changes after a 15-cent jump in a day",
+   "text": "Hoosiers brace for more gas price changes after a 15-cent jump in a day",
+   "url": "https://www.wishtv.com/news/local-news/hoosiers-brace-for-more-gas-price-changes-after-a-15-cent-jump-in-a-day/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "wishtv.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:cedc4ac19a7c980b",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "US lifts sanctions on daughter of Myanmar military - linked businessman",
+   "text": "US lifts sanctions on daughter of Myanmar military - linked businessman",
+   "url": "https://www.asiaone.com/world/us-lifts-sanctions-daughter-myanmar-military-linked-businessman",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "asiaone.com",
+    "country": "Singapore",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:507752c9c494d94c",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "AP News in Brief at 12: 04 a. m. EDT",
+   "text": "AP News in Brief at 12: 04 a. m. EDT",
+   "url": "http://www.gazettextra.com/news/nation_world/ap-news-in-brief-at-12-04-a-m-edt/article_f833cdbb-ff2e-5f42-965b-9b371c884967.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "gazettextra.com",
+    "country": "United States",
+    "coverage": 2
+   }
+  },
+  {
+   "doc_id": "gdelt:ad099ea2e5faa057",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Stronger BoP outlook to keep Rupee far more stable; FY27 surplus seen at USD 97-100 billion: Report",
+   "text": "Stronger BoP outlook to keep Rupee far more stable; FY27 surplus seen at USD 97-100 billion: Report",
+   "url": "http://www.argentinastar.com/news/279363056/stronger-bop-outlook-to-keep-rupee-far-more-stable-fy27-surplus-seen-at-usd-97-100-billion-report",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "argentinastar.com",
+    "country": "Argentina",
+    "coverage": 2
+   }
+  },
+  {
+   "doc_id": "gdelt:d67b17a3fb7820e5",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Pezeshkian pitches CIS + Iran bloc at Turkmenistan summit",
+   "text": "Pezeshkian pitches CIS + Iran bloc at Turkmenistan summit",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-pitches-cis-iran-bloc-turkmenistan-summit",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "middleeasteye.net",
+    "country": "Israel",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:a279ee0b600cfd85",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Trump and Iran agree on one thing. The US election calendar isnt driving their decisions on the war",
+   "text": "Trump and Iran agree on one thing. The US election calendar isnt driving their decisions on the war",
+   "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/articleshow/134847184.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:c641241d42712bbb",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "UK savings: 5% interest rate deals may not last, say experts",
+   "text": "UK savings: 5% interest rate deals may not last, say experts",
+   "url": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "theguardian.com",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:13f9dc16830795bb",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "My neighbour put up a sign for her hairdressing business on my drive without asking: What should I do?",
+   "text": "My neighbour put up a sign for her hairdressing business on my drive without asking: What should I do?",
+   "url": "https://www.dailymail.com/money/mortgageshome/article-16195819/My-neighbour-sign-hairdressing-business-drive-without-asking-do.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "dailymail.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:695dc68dd53c6b05",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Trump strikes diesel deal with Putin, US lifts sanctions",
+   "text": "Trump strikes diesel deal with Putin, US lifts sanctions",
+   "url": "https://tv.rediff.com/news/trump-strikes-diesel-deal-with-putin-us-lifts-sanctions/407754",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "tv.rediff.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:8b154fab608e70f2",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Friend U Visa Curbs Only a Gain for New India: Goyal",
+   "text": "Friend U Visa Curbs Only a Gain for New India: Goyal",
+   "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/friend-us-visa-curbs-only-a-gain-for-new-india-goyal/articleshow/134842801.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:9b3e701d9ddf5f47",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Taiwan president to say boosting its defences is not provocation",
+   "text": "Taiwan president to say boosting its defences is not provocation",
+   "url": "https://www.asiaone.com/asia/taiwan-president-say-boosting-its-defences-not-provocation",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "asiaone.com",
+    "country": "Singapore",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:e92587df4d3660a0",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Ohio residents need hope regarding cost of living",
+   "text": "Ohio residents need hope regarding cost of living",
+   "url": "https://www.salemnews.net/opinion/editorials/2026/10/ohio-residents-need-hope-regarding-cost-of-living/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "salemnews.net",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:1bade46feb38ccaf",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "A comfortable Diwali, an uncomfortable 2027: India sugar balance sheet is running thin",
+   "text": "A comfortable Diwali, an uncomfortable 2027: India sugar balance sheet is running thin",
+   "url": "https://www.thehindubusinessline.com/economy/agri-business/a-comfortable-diwali-an-uncomfortable-2027-indias-sugar-balance-sheet-is-running-thin/article71565441.ece",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "thehindubusinessline.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:79509e8c97d258bd",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "US Slaps Sanctions on ICC Following Ex-Judge Nobel Prize Win",
+   "text": "US Slaps Sanctions on ICC Following Ex-Judge Nobel Prize Win",
+   "url": "https://jowhar.com/us-slaps-sanctions-on-icc-following-ex-judges-nobel-prize-win/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "jowhar.com",
+    "country": "Somalia",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:f086e150c6216e3f",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Mid-Ohio Valley Climate Corner: Vote not just for climate, but affordability",
+   "text": "Mid-Ohio Valley Climate Corner: Vote not just for climate, but affordability",
+   "url": "https://www.newsandsentinel.com/opinion/local-columns/2026/10/mid-ohio-valley-climate-corner-vote-not-just-for-climate-but-affordability/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "newsandsentinel.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:c7687c914172bf91",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Markets too ready for conflict over Taiwan US diplomat",
+   "text": "Markets too ready for conflict over Taiwan US diplomat",
+   "url": "http://www.pakistantelegraph.com/news/279363123/markets-too-ready-for-conflict-over-taiwan-us-diplomat",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "pakistantelegraph.com",
+    "country": "Pakistan",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:88f834f403128b7e",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "I should have won 8 Nobel Peace Prizes: Trump slams Nobel Committee for awarding Navi Pillay",
+   "text": "I should have won 8 Nobel Peace Prizes: Trump slams Nobel Committee for awarding Navi Pillay",
+   "url": "http://www.pakistantelegraph.com/news/279363161/i-should-have-won-8-nobel-peace-prizes-trump-slams-nobel-committee-for-awarding-navi-pillay",
+   "tickers_hint": [],
+   "meta": {
+    "query": "macro",
+    "domain": "pakistantelegraph.com",
+    "country": "Pakistan",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:72e4ef85922d13d1",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Anthropic Prohibits Cruel Treatment and Abuse of Its Claude AI",
+   "text": "Anthropic Prohibits Cruel Treatment and Abuse of Its Claude AI",
+   "url": "https://jowhar.com/anthropic-prohibits-cruel-treatment-and-abuse-of-its-claude-ai/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "jowhar.com",
+    "country": "Somalia",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:ba64093a2473d9a5",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Even Indira Gandhi didnt do this during Emergency: Dipke last post before CJP leader detention from Delhi flight",
+   "text": "Even Indira Gandhi didnt do this during Emergency: Dipke last post before CJP leader detention from Delhi flight",
+   "url": "https://economictimes.indiatimes.com/news/politics-and-nation/even-indira-gandhi-didnt-do-this-during-emergency-dipkes-last-post-before-cjp-leaders-detention-from-delhi-flight/articleshow/134848713.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:ab573833510c4f0a",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Republican candidates take the stage in Northern Panhandle",
+   "text": "Republican candidates take the stage in Northern Panhandle",
+   "url": "https://www.reviewonline.com/news/local-news/2026/10/republican-candidates-take-the-stage-in-northern-panhandle/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "reviewonline.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:49dc59a86f4de3dc",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "2026 Pitfall Avoidance Guide! OKX Referral Code { YC789 } Latest PC Tutorial, Tested 20% Commission Really Great, Refuse to Work for the Platform - bookery 的部落格",
+   "text": "2026 Pitfall Avoidance Guide! OKX Referral Code { YC789 } Latest PC Tutorial, Tested 20% Commission Really Great, Refuse to Work for the Platform - bookery 的部落格",
+   "url": "https://blog.udn.com:443/bookery/192613706",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "blog.udn.com",
+    "country": "Taiwan",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:234ac3ab057cd012",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Microsoft, Nvidia push AI agents onto personal computers",
+   "text": "Microsoft, Nvidia push AI agents onto personal computers",
+   "url": "http://www.argentinastar.com/news/279358260/microsoft-nvidia-push-ai-agents-onto-personal-computers",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "argentinastar.com",
+    "country": "Argentina",
+    "coverage": 3
+   }
+  },
+  {
+   "doc_id": "gdelt:33d2a078401500ce",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Tata Motors raises Iveco takeover offer price to 14.40 euro per share",
+   "text": "Tata Motors raises Iveco takeover offer price to 14.40 euro per share",
+   "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-raises-iveco-takeover-offer-price-to-14-40-euro-per-share/articleshow/134848656.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:5d628242781b0470",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "From 128 kg to 109 kg: Mumbai woman shares 7 breakfasts she repeated while losing 20 kg",
+   "text": "From 128 kg to 109 kg: Mumbai woman shares 7 breakfasts she repeated while losing 20 kg",
+   "url": "https://economictimes.indiatimes.com/magazines/panache/from-128-kg-to-109-kg-mumbai-woman-shares-7-breakfasts-she-repeated-while-losing-20-kg/articleshow/134847507.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:4b225f96f8418457",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Salem med spa looks to support wellness journeys",
+   "text": "Salem med spa looks to support wellness journeys",
+   "url": "https://www.salemnews.net/news/local-news/2026/10/salem-med-spa-looks-to-support-wellness-journeys/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "salemnews.net",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:2578bd4dfe6bc876",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "The Pentagon awarded $350M to a firm tied to a senior DOD official",
+   "text": "The Pentagon awarded $350M to a firm tied to a senior DOD official",
+   "url": "https://www.defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "defenseone.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:31abb0b7bc76daeb",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "How to Delete a Samsung Account Without the Password",
+   "text": "How to Delete a Samsung Account Without the Password",
+   "url": "https://www.gizchina.com/samsung/how-to-delete-a-samsung-account-without-the-password",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "gizchina.com",
+    "country": "China",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:d10cc3a42e7d123c",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Politically motivated decisions will deeply harm US: Indian - American Congressman Thanedar on Trump H-1B, Green Card move",
+   "text": "Politically motivated decisions will deeply harm US: Indian - American Congressman Thanedar on Trump H-1B, Green Card move",
+   "url": "http://www.argentinastar.com/news/279363062/politically-motivated-decisions-will-deeply-harm-us-indian-american-congressman-thanedar-on-trump-h-1b-green-card-move",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "argentinastar.com",
+    "country": "Argentina",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:84739b9407a9a87a",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "How much it costs to live Hertfordshire best place to live",
+   "text": "How much it costs to live Hertfordshire best place to live",
+   "url": "https://www.thecomet.net/news/26624783.much-costs-live-hertfordshire-best-place-live/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "thecomet.net",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:bb1b89c9b7759f79",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "McDonald (NYSE: MCD) Stock Sale Disclosed by Rep. Josh Gottheimer",
+   "text": "McDonald (NYSE: MCD) Stock Sale Disclosed by Rep. Josh Gottheimer",
+   "url": "https://www.themarketsdaily.com/2026/10/10/mcdonalds-nysemcd-stock-sale-disclosed-by-rep-josh-gottheimer.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "themarketsdaily.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:bf9b42340e0db958",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "CJP protest: Plea in SC alleges contempt over Metro shutdown and court voilation seeks action against authorities",
+   "text": "CJP protest: Plea in SC alleges contempt over Metro shutdown and court voilation seeks action against authorities",
+   "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cjp-protest-plea-in-sc-alleges-contempt-over-metro-shutdown-and-court-voilation-seeks-action-against-authorities/articleshow/134848363.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:6ed763a780e31c3d",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Corning (NYSE: GLW) Stock Purchase Revealed by Rep. Maria Elvira Salazar",
+   "text": "Corning (NYSE: GLW) Stock Purchase Revealed by Rep. Maria Elvira Salazar",
+   "url": "https://www.themarketsdaily.com/2026/10/10/corning-nyseglw-stock-purchase-revealed-by-rep-maria-elvira-salazar.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "themarketsdaily.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:8581a788d184ea39",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Bucks County Wine Trail Harvest Celebration",
+   "text": "Bucks County Wine Trail Harvest Celebration",
+   "url": "https://princetonol.com/events/2026-10-10/bucks-county-wine-trail-harvest-celebration",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "princetonol.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:564326fc0d9a76c1",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Meta Platforms (NASDAQ: META) Shares Unloaded by Rep. Maria Elvira Salazar",
+   "text": "Meta Platforms (NASDAQ: META) Shares Unloaded by Rep. Maria Elvira Salazar",
+   "url": "https://www.themarketsdaily.com/2026/10/10/meta-platforms-nasdaqmeta-shares-unloaded-by-rep-maria-elvira-salazar.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "themarketsdaily.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:7b0a5634bd97d042",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Bride couldnt kiss husband at wedding after cold sore then she found £10 balm",
+   "text": "Bride couldnt kiss husband at wedding after cold sore then she found £10 balm",
+   "url": "https://www.dailystar.co.uk/life-style/lipq-cold-sore-treatment-amazon-37754133",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "dailystar.co.uk",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:b6c98b728a1074e0",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Tim Hortons, Starbucks Thanksgiving Day hours in Ontario",
+   "text": "Tim Hortons, Starbucks Thanksgiving Day hours in Ontario",
+   "url": "https://www.insidehalton.com/news/starbucks-tims-mcdonalds-thanksgiving-day/article_ecb91b1a-d9e0-56f4-a039-8c566bbb8593.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "insidehalton.com",
+    "country": "Canada",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:75465f7588c62c73",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Chief Joseph Middle School Incident Prompts Police Response",
+   "text": "Chief Joseph Middle School Incident Prompts Police Response",
+   "url": "https://97rockonline.com/ixp/112/p/chief-joseph-middle-school-safety-incident/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "97rockonline.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:8564e38ba91fd50d",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Delhi protest today: Massive traffic jams reported in central Delhi, check affected areas",
+   "text": "Delhi protest today: Massive traffic jams reported in central Delhi, check affected areas",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-protest-today-massive-traffic-jams-reported-in-central-delhi-check-affected-areas/articleshow/134848082.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:d2b826b8c96140f7",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Deep Roots: Local congregation honors man who helped preserve historic, familial church",
+   "text": "Deep Roots: Local congregation honors man who helped preserve historic, familial church",
+   "url": "https://www.lockhaven.com/news/community/2026/10/deep-roots-local-congregation-honors-man-who-helped-preserve-historic-familial-church/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "lockhaven.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:cf69821456fd0b7e",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "What is the add me on WhatsApp scam as 3,600 complaints",
+   "text": "What is the add me on WhatsApp scam as 3,600 complaints",
+   "url": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/26624880.add-whatsapp-scam-3-600-complaints/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "lancashiretelegraph.co.uk",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:cd825dd434ed717f",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Ma, come here!: Bucs QB Jalon Daniels shares postgame moment with mom after first NFL win",
+   "text": "Ma, come here!: Bucs QB Jalon Daniels shares postgame moment with mom after first NFL win",
+   "url": "https://www.fox13news.com/news/ma-come-here-bucs-qb-jalon-daniels-shares-postgame-moment-mom-after-first-nfl-win",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "fox13news.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:c664737cfd5bae31",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Honeywell Aerospace (NASDAQ: HONA) Stock Sale Disclosed by Rep. Maria Elvira Salazar",
+   "text": "Honeywell Aerospace (NASDAQ: HONA) Stock Sale Disclosed by Rep. Maria Elvira Salazar",
+   "url": "https://www.themarketsdaily.com/2026/10/10/honeywell-aerospace-nasdaqhona-stock-sale-disclosed-by-rep-maria-elvira-salazar.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "themarketsdaily.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:5d221584a93b6ba1",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Hit-Boy Says No Album Can Top Watch The Throne Despite Kanye West Recent Claims",
+   "text": "Hit-Boy Says No Album Can Top Watch The Throne Despite Kanye West Recent Claims",
+   "url": "https://ipowerrichmond.com/4576442/hit-boy-kanye-west-watch-the-throne/",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "ipowerrichmond.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:6a279996154de05b",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "India Slams Vance H-1B Remarks",
+   "text": "India Slams Vance H-1B Remarks",
+   "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/india-slams-vances-h-1b-remarks/articleshow/134842804.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:c527a5a64761d00b",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "A 4-Week Midlife Reset For Feeling Better, Not Eating Less",
+   "text": "A 4-Week Midlife Reset For Feeling Better, Not Eating Less",
+   "url": "https://www.marieclaire.co.uk/health-fitness/nutrition/rosemary-ferguson-the-reset",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "marieclaire.co.uk",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:896ca9c98553563e",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Dear PM Ambani: Musk latest swipe at Reliance, BJP",
+   "text": "Dear PM Ambani: Musk latest swipe at Reliance, BJP",
+   "url": "https://www.rediff.com/news/report/dear-pm-ambani-musks-latest-swipe-at-reliance-bjp/20261010.htm",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "rediff.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:d214893758ae2e75",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Mobileye Global (NASDAQ: MBLY) Stock Gets Price Target Cut from UBS Group",
+   "text": "Mobileye Global (NASDAQ: MBLY) Stock Gets Price Target Cut from UBS Group",
+   "url": "https://www.themarketsdaily.com/2026/10/10/mobileye-global-nasdaqmbly-stock-gets-price-target-cut-from-ubs-group.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "themarketsdaily.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:b81e3b49a96500e8",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Agios Pharmaceuticals (NASDAQ: AGIO) Stock Gets Price Target Reduction from Truist Financial",
+   "text": "Agios Pharmaceuticals (NASDAQ: AGIO) Stock Gets Price Target Reduction from Truist Financial",
+   "url": "https://www.themarketsdaily.com/2026/10/10/agios-pharmaceuticals-nasdaqagio-stock-gets-price-target-reduction-from-truist-financial.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "themarketsdaily.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:6be4b7a324d5e115",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Delhi Protest: Watch how Abhijeet Dipke, SAURAV DAS AND ASHUTOSH RANKA were detained directly from inside the plane after landing in Delhi amid Inquilab Zindabad slogans",
+   "text": "Delhi Protest: Watch how Abhijeet Dipke, SAURAV DAS AND ASHUTOSH RANKA were detained directly from inside the plane after landing in Delhi amid Inquilab Zindabad slogans",
+   "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-protest-watch-how-abhijeet-dipke-saurav-das-and-ashutosh-ranka-were-detained-directly-from-inside-the-plane-after-landing-in-delhi-amid-inqualab-jindaabad-slogans/articleshow/134848124.cms",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "economictimes.indiatimes.com",
+    "country": "India",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:d994bc2c468b9478",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Taylor Swift holds hands with husband Travis Kelce on low-key date night in NYC amid couple shock neighbor war over $5m Ohio mansion",
+   "text": "Taylor Swift holds hands with husband Travis Kelce on low-key date night in NYC amid couple shock neighbor war over $5m Ohio mansion",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16198177/taylor-swift-travis-kelce-hold-hands-date-night-nyc-neighbor-war.html",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "dailymail.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:07fd80999cf3ffe9",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "2024: BMW, 4 Series, 430i Gran Coupe, 4D Hatchback",
+   "text": "2024: BMW, 4 Series, 430i Gran Coupe, 4D Hatchback",
+   "url": "https://www.woodlandsonline.com/agps/agitem.cfm?agid=151040",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "woodlandsonline.com",
+    "country": "United States",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:a6a18ee8a5de129d",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+   "text": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+   "url": "https://www.asiaone.com/world/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-nvidia-chips-china",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "asiaone.com",
+    "country": "Singapore",
+    "coverage": 1
+   }
+  },
+  {
+   "doc_id": "gdelt:e79752c7ed6b86ca",
+   "source": "gdelt",
+   "source_type": "global_news",
+   "published_at": "2026-10-10T06:45:00Z",
+   "title": "The Guide # 264: Why is Hollywood obsessed with the tech-bro baddie?",
+   "text": "The Guide # 264: Why is Hollywood obsessed with the tech-bro baddie?",
+   "url": "https://www.theguardian.com/culture/2026/oct/09/why-is-hollywood-obsessed-with-the-tech-bro-baddie",
+   "tickers_hint": [],
+   "meta": {
+    "query": "companies",
+    "domain": "theguardian.com",
+    "country": "United Kingdom",
+    "coverage": 1
+   }
+  }
+ ]
+}

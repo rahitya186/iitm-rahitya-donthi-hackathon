@@ -1,0 +1,13 @@
+[server]
+headless = true
+fileWatcherType = "none"   # no hot-reload scanning of the ML libraries
+
+[browser]
+gatherUsageStats = false
+
+# blue accent (red is reserved for "underweight / negative" in the charts); follows the OS light/dark setting
+[theme.light]
+primaryColor = "#2a78d6"
+
+[theme.dark]
+primaryColor = "#3987e5"

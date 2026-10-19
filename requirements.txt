@@ -1,0 +1,15 @@
+# Core pipeline, API and dashboard
+pandas>=2.2.2
+numpy>=2.0
+requests>=2.31
+fastapi>=0.110
+uvicorn>=0.27
+streamlit>=1.52
+plotly>=5.24
+vaderSentiment>=3.3.2
+
+# Transformer sentiment model (DistilRoBERTa fine-tuned on financial news, ~330 MB download on first run).
+# If these fail to install, everything still runs on the built-in VADER fallback (RISKPULSE_MODEL=vader).
+# Linux only: pip install torch --index-url https://download.pytorch.org/whl/cpu  (avoids the large CUDA build)
+torch>=2.3
+transformers>=4.44
