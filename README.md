@@ -6,7 +6,7 @@
 
 **College / Campus:** Indian Institute of Technology Madras
 
-**Demo Video Link:** [YouTube (unlisted) link]
+**Demo Video Link:** https://youtu.be/iblJrQNnJMg
 
 **Slide Deck Link (if hosted externally):** Not hosted externally. The deck is in this repo: [`docs/presentation.pdf`](docs/presentation.pdf)
 
